@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: High_freq_final.PcbDoc   2/7/2023  12:41:38 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : High_freq_final.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      26mil (0.65mm)                                            Round             4         PTH        1.54inch (39.07mm)
+T2      32mil (0.8mm)                                             Round             6         PTH        4.06inch (103.00mm)
+T3      33mil (0.85mm)                                            Round             18        PTH        9.53inch (242.00mm)
+T4      35mil (0.9mm)                                             Round             3         PTH        0.20inch (5.20mm)
+T5      39mil (1mm)                                               Round             4         PTH        4.68inch (118.83mm)
+T6      47mil (1.19mm)                                            Round             6         PTH        3.01inch (76.36mm)
+T7      51mil (1.3mm)                                             Round             12        PTH        7.19inch (182.74mm)
+T8      79mil (2mm)                                               Round             4         PTH        8.95inch (227.25mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              57
+
+Total Processing Time (hh:mm:ss) : 00:00:00

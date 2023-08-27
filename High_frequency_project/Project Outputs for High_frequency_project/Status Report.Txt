@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [High_frequency_project.PrjPcb]
+   Generated File[High_freq_final.TXT]
+   Generated File[High_freq_final.LDP]
+   Generated File[High_freq_final.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:41:38 PM On 2/7/2023
